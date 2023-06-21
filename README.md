@@ -2,6 +2,8 @@
 
 This repository is a simple Next.js application demonstrating various features of the Next.js framework. Here, you'll find examples of creating a Next.js app, file-based routing, nested routes, dynamic routes, showcasing the Link component, the Image component, API routes, a custom App component, prefetching, rendering techniques, data fetching methods, environment variables usage, and a custom 404 error page.
 
+The showcase is related to the demo I gave at my talk, here's the [blog post](https://amadeustwi.dev/cra-dead-whats-next) and the [slides](https://drive.google.com/file/d/1r0-oQdg2Mz2MG-0f8FqZmpyxyFjchols/view), so you can get more context and cheat sheets on demo part. Have a look!
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
